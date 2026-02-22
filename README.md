@@ -1,4 +1,4 @@
-<h1 align="left">👋 Hello, I'm Gabriel Teramae</h1>
+<h1 align="left">👋 Hello, I'm Gabriel Teramae Chan</h1>
 
 ###
 
