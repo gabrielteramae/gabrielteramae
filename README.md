@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">💻 Developer, starting my journey and passionate about building functional personal projects.</p>
+<p align="left">💻 Developer.</p>
 
 ###
 
