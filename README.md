@@ -9,7 +9,7 @@
   </a>
 </div>
 
-<p align="left">💻 Developer.</p>
+<p align="left">💻 Developer</p>
 
 <h3 align="left">🛠 Language and tools</h3>
 
