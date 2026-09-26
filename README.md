@@ -1,4 +1,4 @@
-<h1 align="left">👋 Hello, I'm Gabriel Teramae</h1>
+<h1 align="left">👋 Hello, I'm Gabriel</h1>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gabriel-teramae-aneps-00552a2b7/" target="_blank">
