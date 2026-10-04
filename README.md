@@ -77,12 +77,6 @@
   <img src="https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white&style=for-the-badge" height="40" alt="railway logo" />
 </div>
 
-<h3 align="left">📫 Get in Touch</h3>
-
-<h4 align="left">I'm constantly learning and improving every day. Currently looking for new opportunities, feel free to reach out!</h4>
-
-<p align="left">"Simple can be harder than complex. You have to work hard to get your thinking clean, to make it simple." - Steve Jobs</p>
-
 <div align="center">
 <pre>
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
