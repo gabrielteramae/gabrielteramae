@@ -24,6 +24,10 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo" />
   <img width="12" />
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge" height="40" alt="sql logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge" height="40" alt="scikit-learn logo" />
+  <img width="12" />
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" height="40" alt="fastapi logo" />
   <img width="12" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo" />
@@ -54,7 +58,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="google cloud logo" />
+  <img width="12" />
   <img src="https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white&style=for-the-badge" height="40" alt="databricks logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge" height="40" alt="power bi logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
   <img width="12" />
